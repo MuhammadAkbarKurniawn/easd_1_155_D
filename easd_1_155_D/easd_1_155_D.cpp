@@ -26,6 +26,12 @@ void input() {
 void SelectionSort() {
 	for (int MA = 0; MA <= n - 2; MA++) {
 		int min_index = MA;
+		for (int i = MA + 1; i < n; i++) {
+			if (Akbar[i] < Akbar[min_index]) {
+				min_index = i;
+			}
+		}
+
 	}
 }
 
