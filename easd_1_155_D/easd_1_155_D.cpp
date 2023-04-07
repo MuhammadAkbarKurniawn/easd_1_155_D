@@ -13,4 +13,12 @@ void input() {
 		else cout << "\n Maksimum Panjang Array Adalah 75" << endl;
 	}
 
+	cout << "\n======================" << endl;
+	cout << "\n=Masukkan Element Array=" << endl;
+	cout << "\n======================" << endl;
+
+	for (int i = 0; i < n; i++) {
+		cout << "Data ke-" << (i + 1) << ": ";
+		cin >> Akbar[i];
+	}
 }
