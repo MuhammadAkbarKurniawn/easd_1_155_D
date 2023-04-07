@@ -6,6 +6,7 @@
 //		Bubble Sort, Selection Sort, Quick Sort, Merge Sort
 //	  - Loglinear :
 //		Insertion Sort, Shell Sort
+//6. Membuat Algoritma Selection sort jawaban dibawah :
 
 
 
