@@ -50,4 +50,6 @@ int main() {
 	input();
 	SelectionSort();
 	display();
+
+	return 0;
 }
