@@ -1,3 +1,8 @@
+// 1. Karena dengan menggunakan Algoritma kita membuat kemungkinan kemungkinan yang ada dan menyusunnya menjadi solusi terbaik untuk menyelesaikan suatu masalah dengan cara yang paling efisien
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -13,9 +18,9 @@ void input() {
 		else cout << "\n Maksimum Panjang Array Adalah 75" << endl;
 	}
 
-	cout << "\n======================" << endl;
+	cout << "\n=========================" << endl;
 	cout << "\n=Masukkan Element Array=" << endl;
-	cout << "\n======================" << endl;
+	cout << "\n=========================" << endl;
 
 	for (int i = 0; i < n; i++) {
 		cout << "Data ke-" << (i + 1) << ": ";
@@ -38,9 +43,9 @@ void SelectionSort() {
 }
 
 void display() {
-	cout << "\n=========================" << endl;
+	cout << "\n============================" << endl;
 	cout << "Element Array Yang Telah Terususun" << endl;
-	cout << "=========================" << endl;
+	cout << "============================" << endl;
 
 	for (int i = 0; i < n; i++) {
 		cout << Akbar[i]<< " ";
