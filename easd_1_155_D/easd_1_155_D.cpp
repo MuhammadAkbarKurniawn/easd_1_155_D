@@ -46,3 +46,6 @@ void display() {
 		cout << Akbar[i]<< "";
 	}
 }
+int main() {
+
+}
