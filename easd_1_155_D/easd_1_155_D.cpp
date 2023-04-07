@@ -1,6 +1,8 @@
 // 1. Karena dengan menggunakan Algoritma kita membuat kemungkinan kemungkinan yang ada dan menyusunnya menjadi solusi terbaik untuk menyelesaikan suatu masalah dengan cara yang paling efisien
 // 2. Static dan Dynamic
 // 3. Kecepatan mesin / Processor, Penerjemah / Compiler, Sistem Operasi, Bahasa Program, Ukuran input
+// 4. BubbleSort, Karena algoritmanya paling sederhana dan orde pertumbuhannya quadratik dengan mengurutkan dari belakang paling besar menuju depan paling kecil.
+// 5
 
 
 
