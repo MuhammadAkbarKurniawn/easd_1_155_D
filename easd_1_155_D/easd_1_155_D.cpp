@@ -2,7 +2,10 @@
 // 2. Static dan Dynamic
 // 3. Kecepatan mesin / Processor, Penerjemah / Compiler, Sistem Operasi, Bahasa Program, Ukuran input
 // 4. BubbleSort, Karena algoritmanya paling sederhana dan orde pertumbuhannya quadratik dengan mengurutkan dari belakang paling besar menuju depan paling kecil.
-// 5
+// 5. - Quadaratic :
+//		Bubble Sort, Selection Sort, Quick Sort, Merge Sort
+//	  - Loglinear :
+//		Insertion Sort, Shell Sort
 
 
 
