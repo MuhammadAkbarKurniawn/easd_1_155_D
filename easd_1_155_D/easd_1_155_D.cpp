@@ -23,6 +23,12 @@ void input() {
 	}
 }
 
+void SelectionSort() {
+	for (int MA = 0; MA <= n - 2; MA++) {
+		int min_index = MA;
+	}
+}
+
 void display() {
 	cout << "\n=====================" << endl;
 	cout << "Element Array Yang Telah Terususun" << endl;
