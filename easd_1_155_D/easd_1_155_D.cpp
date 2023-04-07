@@ -38,12 +38,12 @@ void SelectionSort() {
 }
 
 void display() {
-	cout << "\n=====================" << endl;
+	cout << "\n=========================" << endl;
 	cout << "Element Array Yang Telah Terususun" << endl;
-	cout << "=====================" << endl;
+	cout << "=========================" << endl;
 
 	for (int i = 0; i < n; i++) {
-		cout << Akbar[i]<< "";
+		cout << Akbar[i]<< " ";
 	}
 }
 int main() {
