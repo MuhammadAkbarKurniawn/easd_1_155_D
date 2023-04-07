@@ -48,4 +48,5 @@ void display() {
 }
 int main() {
 	input();
+	SelectionSort();
 }
