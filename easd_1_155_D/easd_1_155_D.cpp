@@ -31,7 +31,9 @@ void SelectionSort() {
 				min_index = i;
 			}
 		}
-
+		int temp = Akbar[MA];
+		Akbar[MA] = Akbar[min_index];
+		Akbar[min_index] = temp;
 	}
 }
 
